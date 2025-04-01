@@ -1,8 +1,8 @@
-# Hey everyone, welcome to my GitHub.  💻
+# Hey everyone, I'm Fabio Bonato.  
 
-🎓 I'm a **Software Engineering Student** at Instituto Infnet, passionate about turning ideas into code.
+💻 I'm a **Software Engineering Student** at Instituto Infnet, passionate about turning ideas into code.
 
-⚽ In my free time, I play soccer, go to the gym, and dive into tech content.
+⚽ In my free time, you'll find me playing soccer, hitting the gym, or diving into tech content to keep learning and growing.
 
 <div style="display: inline_block"><br>
  
