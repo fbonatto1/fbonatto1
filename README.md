@@ -1,4 +1,4 @@
-# Hey everyone, I'm Fábio Bonato, welcome to my GitHub.  💻
+# Hey everyone, welcome to my GitHub.  💻
 
 🎓 I'm a **Software Engineering Student** at Instituto Infnet, passionate about turning ideas into code.
 
